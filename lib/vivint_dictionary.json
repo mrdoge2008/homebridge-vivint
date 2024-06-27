@@ -381,7 +381,8 @@
         "HueBridge": "phillips_hue_bridge_device",
         "PersonalGuardDevice": "personal_guard_device",
         "PODNestThermostat": "pod_nest_thermostat_device",
-        "PODMyQGarageDoorDevice": "pod_myq_garage_door_device"
+        "PODMyQGarageDoorDevice": "pod_myq_garage_door_device",
+        "GroupDevices": "group_device"
     },
     "WeekdayType": {
         "Weekday": "weekday",
@@ -4269,6 +4270,10 @@
         "MaxCoolLockSetPoint": 69,
         "MinCoolLockSetPoint": 70,
         "DoorState": 71
+    },
+    "PanelCapabilityType": {
+        "Dimmable": 8,
+        "GroupDevices": 17
     },
     "Operators": {
         "UpdateAll": "ua",
