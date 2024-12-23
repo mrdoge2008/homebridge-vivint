@@ -4,5 +4,4 @@ persist/
 scratch
 dist
 build
-.vscode/launch.json
-.vscode/tasks.json
+.vscode
