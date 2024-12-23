@@ -12,7 +12,7 @@
             "preLaunchTask": "buildTask",
             "program": "/usr/local/bin/homebridge",
             "args": [
-                "-I",
+                "-I -D",
             ],
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
