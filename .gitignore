@@ -4,3 +4,4 @@ persist/
 scratch
 dist
 build
+.vscode
