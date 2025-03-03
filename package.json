@@ -1,6 +1,6 @@
 {
   "name": "@balansse/homebridge-vivint",
-  "version": "1.10.0",
+  "version": "1.10.1",
   "description": "Control Vivint with HomeBridge",
   "license": "ISC",
   "author": "Alexandr Balan <balansse@gmail.com>",
@@ -10,7 +10,8 @@
     "jgrimard",
     "arjunmehta",
     "erceth",
-    "mbentley"
+    "mbentley",
+    "meek2100"
   ],
   "keywords": [
     "homebridge-plugin"
