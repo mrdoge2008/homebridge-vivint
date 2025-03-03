@@ -1,3 +1,12 @@
+## 1.10.0 (2025-02-28)
+### Changes
+- Added garage tilt sensor; fixes #125 by @mbentley in #165
+- Homebridge 2.0 support by @jgrimard in #164
+
+## 1.9.0 (2024-06-27)
+### Changes
+- Add Lighting Groups to Accessories by @erceth in #146
+
 ## 1.8.1 (2023-05-18)
 ### Changes
 - Add hue bridge & multi level switch devices to the ignore device type list (@LuisRodriguezLD)
