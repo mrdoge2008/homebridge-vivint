@@ -1,3 +1,8 @@
+## 1.10.1 (2025-03-03)
+### Changes
+- Add additional types to irrelevantDeviceTypes. by @meek2100 in #167
+- Sanative Device Names to prevent incompatibility or HomeKit errors. by @meek2100 in #169
+
 ## 1.10.0 (2025-02-28)
 ### Changes
 - Added garage tilt sensor; fixes #125 by @mbentley in #165
