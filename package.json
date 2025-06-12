@@ -24,7 +24,7 @@
     "url": "http://github.com/balansse/homebridge-vivint/issues"
   },
   "engines": {
-    "node": ">=10",
+    "node": ">=16.0.0 <=22.x",
     "homebridge": ">=1.0.0 || ^2.0.0-beta.0"
   },
   "dependencies": {
@@ -64,3 +64,4 @@
     "prepare": "node scripts/prepublish-build"
   }
 }
+update engine range for Node.js 22 compatibility
