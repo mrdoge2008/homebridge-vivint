@@ -64,4 +64,3 @@
     "prepare": "node scripts/prepublish-build"
   }
 }
-update engine range for Node.js 22 compatibility
